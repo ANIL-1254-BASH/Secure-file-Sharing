@@ -10,7 +10,7 @@ We have implemented a secure file sharing that provides confidentiality and inte
 ### Step 1: Download iPython & Database Files
 You can clone codes using the below command:
 ```
-git clone https://github.com/SaraBaradaran/Secure-File-Sharing
+git clone https://github.com/ANIL-1254-BASH/Secure-file-Sharing
 ```
 
 ### Step 2: Create Database "SecureFileSharing"
